@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750.7 665.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fceb37;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        letter-spacing: .03em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #1d1d1b;
+        font-family: AlienEnergy-Italic, 'Alien Energy';
+        font-style: italic;
+      }
+
+      .cls-3 {
+        font-size: 60px;
+        letter-spacing: .03em;
+      }
+
+      .cls-4 {
+        fill: #e99700;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-4" points="704.7 30.15 675.26 177.59 0 211.79 0 12 704.7 30.15"/>
+  <polygon class="cls-4" points="738.7 250.28 710.07 446.95 97.19 407.01 70.69 270.37 738.7 250.28"/>
+  <polygon class="cls-4" points="642.78 487.42 659.14 639.63 82.69 665.03 44.41 475.81 642.78 487.42"/>
+  <polygon class="cls-1" points="716.7 18.15 687.26 165.59 34.04 190.27 12 0 716.7 18.15"/>
+  <polygon class="cls-1" points="750.7 238.28 723.46 425.43 109.19 395.01 82.69 258.37 750.7 238.28"/>
+  <polygon class="cls-1" points="654.78 475.42 671.14 627.63 103.71 643.99 70.07 454.8 654.78 475.42"/>
+  <text class="cls-3" transform="translate(82.68 111.9)"><tspan x="0" y="0">START</tspan></text>
+  <text class="cls-2"><tspan x="261.85" y="318.69">irisgarritasun</tspan><tspan x="493.28" y="378.69">menua</tspan></text>
+  <text class="cls-2" transform="translate(130.24 570.42)"><tspan x="0" y="0">KREDITUAK</tspan></text>
+</svg>

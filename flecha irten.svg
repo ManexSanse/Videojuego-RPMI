@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 884.62 225">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e52421;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: AlienEnergy-Italic, 'Alien Energy';
+        font-size: 93.94px;
+        font-style: italic;
+        letter-spacing: .06em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="643.24 40.46 673.24 184.51 194.18 184.51 194.18 225 0 112.48 194.18 0 194.18 40.46 643.24 40.46"/>
+  <polygon class="cls-1" points="708.67 40.48 770.33 184.52 706.41 184.52 678.18 40.48 708.67 40.48"/>
+  <polygon class="cls-1" points="884.62 184.51 826.42 184.51 740.6 40.46 777.06 40.46 884.62 184.51"/>
+  <text class="cls-2" transform="translate(250.76 144.78)"><tspan x="0" y="0">Irten</tspan></text>
+  <text class="cls-3" transform="translate(247.29 140.49)"><tspan x="0" y="0">Irten</tspan></text>
+</svg>
